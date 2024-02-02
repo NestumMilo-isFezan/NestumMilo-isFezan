@@ -17,38 +17,50 @@
 </div>
 
 <hr>
+<h3 align="center">Programming Language:</h3>
 <p align="center">
-  <h3>Programming Language:</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,java,js,cpp,py" />
   </a>
-  <br>
-  <h3>Web Dev Skills:</h3>
+</p>
+<br>
+<h3 align="center">Web Dev Skills:</h3>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
   </a>
-  <br>
-  <h3>Web Frameworks:</h3>
+</p>
+<br>
+<h3 align="center">Web Frameworks:</h3>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=laravel,jquery,tailwind,django" />
   </a>
-  <br>
-  <h3>Database Experienced:</h3>
+</p>
+<br>
+<h3 align="center">Database Experienced:</h3>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" />
   </a>
-  <br>
-  <h3>Essential Skills:</h3>
+</p>
+<br>
+<h3 align="center">Essential Skills:</h3>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,figma,git,ps" />
   </a>
-  <br>
-  <h3>ML Tools:</h3>
+</p>
+<br>
+<h3 align="center">ML Tools:</h3>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow" />
   </a>
-  <br>
-  <h3>Next Skills To Learn:</h3>
+</p>
+<br>
+<h3 align="center">Next Skills To Learn:</h3>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,vue,svelte,ts,rust,rails,mongodb" />
   </a>
