@@ -4,10 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NestumMilo-isFezan&label=Profile%20views&color=0e75b6&style=flat" alt="NestumMilo-isFezan" /> </p>
 
 - 🔭 I’m currently working on simple university project | [MyStudyKPI](https://github.com/NestumMilo-isFezan/mystudykpi-laravel.git)
-- 🌱 I’m currently learning **Laravel (TALL Stack), React and Next.js, Svelte and DJango**
+- 🗒️ Planning to do my side project for hobby and improving my skills | Maybe - To Do Apps, Basic Recommendation System, MAL Clone
+- 🎓 Gathering Requirements for my Final Year Project | Personalized Educational Recommendation System
 
 <hr>
-<p>⚡FYI : <em>I'm just your regular weeb guy who like plays gacha game and love his waifu a lot.</em></p>
+<p>⚡FYI : <em>I'm just your regular weeb guy who likes plays gacha game, loves to learn more coding on my own pace and loves waifu a lot.</em></p>
 
 <div>
     <a href="https://twitter.com/nestummilo_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
