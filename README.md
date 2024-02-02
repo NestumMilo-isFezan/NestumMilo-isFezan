@@ -34,5 +34,7 @@
 <hr>
 <h2 align="center"><b>My activity:</b></h2>
 
-| [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=NestumMilo-isFezan&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=NestumMilo-isFezan&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)|
+|   Category             |     Skilled     |
+| :---                   |     :---:      |
+| [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=NestumMilo-isFezan&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=NestumMilo-isFezan&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) | nbsp; |
 
