@@ -1,5 +1,5 @@
-<img src="banner.jpg" style="width:100%; height:300px; object-fit: cover;">
-<h1 align="center">Hello Guys 👋, I'm Nurahfezan - NestumMilo</h1>
+<img src="banner.jpg" style="width:100%; height:400px; object-fit: cover;">
+<h1 align="center">Hello Guys 👋, I'm <b>Nurahfezan - NestumMilo</b></h1>
 <h3 align="center">🎓I'm on 3rd Year in BCS (Hons) Software Engineering. Just a simple Weeb and Tech Enthusiast.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NestumMilo-isFezan&label=Profile%20views&color=0e75b6&style=flat" alt="NestumMilo-isFezan" /> </p>
 
@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Laravel (TALL Stack), React and Next.js, Svelte and DJango**
 
 <hr>
-- ⚡FYI : **I'm just your regular weeb guy who like plays gacha game and love his waifu a lot.**
+<p>⚡FYI : <em>I'm just your regular weeb guy who like plays gacha game and love his waifu a lot.</em></p>
 
 <div>
     <a href="https://twitter.com/nestummilo_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
