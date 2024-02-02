@@ -32,13 +32,16 @@
 
 </div>
 <hr>
-## 🗣 My activity:
-
-<!--GITHUB_ACTIVITY:{"rows": 5}-->
-
----
-
-<p align="center">
-  <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.activity.svg" alt=""></img>
-  <img width="900" height="1" alt="">
-</p>
+<h2 align="center"><b>My activity:</b></h2>
+<div align="center">
+<table>
+    <tr>
+        <td>
+            <p align="center">
+              <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.activity.svg" alt=""></img>
+              <img width="900" height="1" alt="">
+            </p>
+        </td>
+    </tr>
+</table>
+</div>
