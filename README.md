@@ -39,6 +39,6 @@
 ---
 
 <p align="center">
-  Last refresh: 
-  <b><!--TIMESTAMP--></b>
+  <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.activity.svg" alt=""></img>
+  <img width="900" height="1" alt="">
 </p>
