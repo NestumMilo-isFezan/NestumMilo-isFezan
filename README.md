@@ -1,4 +1,4 @@
-<section style="background-image: url(banner.jpg); background-size: cover; width:100%; height:500px;">&nbsp;</section>
+<section><img src="banner.jpg" width="100%" /></section>
 <h1 align="center">Hello Guys 👋, I'm <b>Nurahfezan - NestumMilo</b></h1>
 <h3 align="center">🎓I'm on 3rd Year in BCS (Hons) Software Engineering. Just a simple Weeb and Tech Enthusiast.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NestumMilo-isFezan&label=Profile%20views&color=0e75b6&style=flat" alt="NestumMilo-isFezan" /> </p>
