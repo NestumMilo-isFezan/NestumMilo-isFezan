@@ -18,6 +18,7 @@
 
 <hr>
 <h3 align="center"><b>My Skills</b></h3>
+<div align="center">
 
 |   Category             |     Skilled     |   Will Learn  |
 | :---                   |     :---:      |     :---:     |
@@ -28,4 +29,5 @@
 | Essentials             | [![My Skills](https://skillicons.dev/icons?i=docker,figma,git,ps)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev) |
 | Machine Learning Tools | [![My Skills](https://skillicons.dev/icons?i=sklearn,opencv)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch)](https://skillicons.dev) |
 
+</div>
 <hr>
