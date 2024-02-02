@@ -3,8 +3,13 @@
 </div>
 
 <h1 align="center">Hello Guys 👋, I'm <b>Nurahfezan - NestumMilo</b></h1>
-<h3 align="center">🎓I'm on 3rd Year in BCS (Hons) Software Engineering. Just a simple Weeb and Tech Enthusiast.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NestumMilo-isFezan&label=Profile%20views&color=0e75b6&style=flat" alt="NestumMilo-isFezan" /> </p>
+<h3 align="center">🎓I'm on 3rd Year in BCS (Hons) Software Engineering.<br>Just a simple Weeb and Tech Enthusiast.</h3>
+
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=NestumMilo-isFezan&label=Profile%20views&color=0e75b6&style=flat" alt="NestumMilo-isFezan" />
+    <img src="https://img.shields.io/badge/My_Waifu-Ushio_Noa-pink?style=flat&color=%2340A2E3"/>
+    <img src="https://img.shields.io/badge/University-Universiti_Malaysia_Sabah-pink?style=flat&labelColor=%23FF004D"/>
+</p>
 
 - 🔭 I’m currently working on **revamp my recent university project in Laravel**, (might continue after final exam)
     - [My Study KPI](https://github.com/NestumMilo-isFezan/mystudykpi-laravel.git)
@@ -18,9 +23,13 @@
     - Personalized Educational Recommendation System
 
 <hr>
-<p>⚡FYI : <em>I'm just your regular weeb guy who likes plays gacha game, loves to learn more coding on my own pace and loves waifu a lot.</em></p>
+<h2 align="center">My Social Activity</h2>
+<p align="center">⚡FYI : <em>I'm just your regular weeb guy who likes plays gacha game, loves to learn more coding on my own pace and loves waifu a lot.</em></p>
+<br>
 
 <div align="center">
+    <h3>.. Follow Me ..</h3>
+    <a href="https://www.facebook.com/nurahfezan.nordin.3/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
     <a href="https://twitter.com/nestummilo_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/nurahfezannordin-0201/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://github.com/NestumMilo-isFezan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
