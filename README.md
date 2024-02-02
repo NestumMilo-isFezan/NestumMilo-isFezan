@@ -17,52 +17,15 @@
 </div>
 
 <hr>
-<h3 align="center">Programming Language:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,java,js,cpp,py" />
-  </a>
-</p>
-<br>
-<h3 align="center">Web Dev Skills:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
-  </a>
-</p>
-<br>
-<h3 align="center">Web Frameworks:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,jquery,tailwind,django" />
-  </a>
-</p>
-<br>
-<h3 align="center">Database Experienced:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" />
-  </a>
-</p>
-<br>
-<h3 align="center">Essential Skills:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,figma,git,ps" />
-  </a>
-</p>
-<br>
-<h3 align="center">ML Tools:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow" />
-  </a>
-</p>
-<br>
-<h3 align="center">Next Skills To Learn:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,svelte,ts,rust,rails,mongodb" />
-  </a>
-</p>
+<h3 align="center"><b>My Skills</b></h3>
+
+|   Category             |     Skilled     |   Will Learn  |
+| :---                   |     :---:      |     :---:     |
+| Programming Language   | [![My Skills](https://skillicons.dev/icons?i=php,java,js,cpp,py)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=rust,ts,ruby,cs)](https://skillicons.dev) |
+| Web Development        | [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=sass,nodejs,vite,alpinejs)](https://skillicons.dev) |
+| Web Frameworks         | [![My Skills](https://skillicons.dev/icons?i=laravel,jquery,tailwind,bootstrap)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=svelte,react,nextjs,django)](https://skillicons.dev) |
+| Database Experienced   | [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev) |
+| Essentials             | [![My Skills](https://skillicons.dev/icons?i=docker,figma,git,ps)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev) |
+| Machine Learning Tools | [![My Skills](https://skillicons.dev/icons?i=sklearn,opencv)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch)](https://skillicons.dev) |
+
 <hr>
