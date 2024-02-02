@@ -1,4 +1,4 @@
-<img src="banner.jpg" style="width:100vw; height:30vh; object-fit: cover;">
+<img src="banner.jpg" style="width:100%; height:300px; object-fit: cover;">
 <h1 align="center">Hello Guys 👋, I'm Nurahfezan - NestumMilo</h1>
 <h3 align="center">🎓I'm on 3rd Year in BCS (Hons) Software Engineering. Just a simple Weeb and Tech Enthusiast.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NestumMilo-isFezan&label=Profile%20views&color=0e75b6&style=flat" alt="NestumMilo-isFezan" /> </p>
