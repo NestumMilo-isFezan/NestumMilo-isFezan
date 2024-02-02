@@ -17,7 +17,7 @@
 </div>
 
 <hr>
-<h3 align="center"><b>My Skills</b></h3>
+<h2 align="center"><b>My Skills</b></h3>
 <div align="center">
 
 |   Category             |     Skilled     |   Will Learn  |
