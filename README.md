@@ -37,7 +37,7 @@
 
 |   Marker             |     Stats Indicator     |
 | :---                   |     :---:      |
-| Total Stats | [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=NestumMilo-isFezan&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=NestumMilo-isFezan&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) |
+| Total Stats | [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=NestumMilo-isFezan&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=radical#gh-dark-mode-only)](https://github.com/NestumMilo-isFezan#gh-dark-mode-only) [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=NestumMilo-isFezan&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=default#gh-light-mode-only)](https://github.com/NestumMilo-isFezan#gh-light-mode-only) |
 | Most Used Language in Github | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NestumMilo-isFezan&layout=compact&theme=radical&hide_border=true) |
 
 </div>
