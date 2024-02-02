@@ -3,7 +3,9 @@
 <h3 align="center">🎓I'm on 3rd Year in BCS (Hons) Software Engineering. Just a simple Weeb and Tech Enthusiast.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NestumMilo-isFezan&label=Profile%20views&color=0e75b6&style=flat" alt="NestumMilo-isFezan" /> </p>
 
-- 🔭 I’m currently working on simple university project | [MyStudyKPI](https://github.com/NestumMilo-isFezan/mystudykpi-laravel.git)
+- 🔭 I’m currently working on simple university project :
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NestumMilo-isFezan&repo=mystudykpi-laravel)](https://github.com/NestumMilo-isFezan/mystudykpi-laravel)
+
 - 🗒️ Planning to do my side project for hobby and improving my skills | Maybe - To Do Apps, Basic Recommendation System, MAL Clone
 - 🎓 Gathering Requirements for my Final Year Project | Personalized Educational Recommendation System
 
@@ -34,7 +36,7 @@
 <hr>
 <h2 align="center"><b>My activity:</b></h2>
 
-|   Category             |     Skilled     |
+|   Marker             |     Stats Indicator     |
 | :---                   |     :---:      |
-| [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=NestumMilo-isFezan&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=NestumMilo-isFezan&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) | nbsp; |
+| Total Stats | [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=NestumMilo-isFezan&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=NestumMilo-isFezan&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) |
 
