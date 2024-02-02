@@ -1,4 +1,4 @@
-<img src="banner.jpg" style="width:100vw; height:30vh;">
+<img src="banner.jpg" style="width:100vw; height:30vh; object-fit: cover;">
 <h1 align="center">Hello Guys 👋, I'm Nurahfezan - NestumMilo</h1>
 <h3 align="center">🎓I'm on 3rd Year in BCS (Hons) Software Engineering. Just a simple Weeb and Tech Enthusiast.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NestumMilo-isFezan&label=Profile%20views&color=0e75b6&style=flat" alt="NestumMilo-isFezan" /> </p>
@@ -38,14 +38,3 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/logo-mark-lightbg.svg" alt="SeaBorn" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="40" height="40"/>
 </p>
-<hr>
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NestumMilo-isFezan&layout=compact&theme=radical" alt=NestumMilo-isFezan />
-<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NestumMilo-isFezan&theme=radical" alt="NestumMilo-isFezan" />
-<hr>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/NestumMilo-isFezan">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NestumMilo-isFezan&theme=radical" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NestumMilo-isFezan&theme=radical" height="180em" />
-</div>
