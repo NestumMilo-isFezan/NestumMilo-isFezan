@@ -33,15 +33,6 @@
 </div>
 <hr>
 <h2 align="center"><b>My activity:</b></h2>
-<div align="center">
-<table>
-    <tr>
-        <td>
-            <p align="center">
-              <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.activity.svg" alt=""></img>
-              <img width="900" height="1" alt="">
-            </p>
-        </td>
-    </tr>
-</table>
-</div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NestumMilo-isFezan&show_icons=true&theme=radical)
+
