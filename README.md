@@ -3,11 +3,10 @@
 </div>
 
 <h1 align="center">Hello Guys 👋, I'm <b>Nurahfezan - NestumMilo</b></h1>
-<h3 align="center">🎓I'm on 3rd Year in BCS (Hons) Software Engineering.<br>Just a simple Weeb and Tech Enthusiast.</h3>
+<h3 align="center">🎓I'm on Final Year in BCS (Hons) Software Engineering.<br>Just a simple Weeb and Tech Enthusiast.</h3>
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=NestumMilo-isFezan&label=Profile%20views&color=0e75b6&style=flat" alt="NestumMilo-isFezan" />
-    <img src="https://img.shields.io/badge/My_Waifu-Ushio_Noa-pink?style=flat&color=%2340A2E3"/>
     <img src="https://img.shields.io/badge/University-Universiti_Malaysia_Sabah-pink?style=flat&labelColor=%23FF004D"/>
 </p>
 
