@@ -11,7 +11,7 @@
 </p>
 
 - 🔭 I’m done finishing my **Final Year Project**!!
-    - CareerMap ('https://github.com/NestumMilo-isFezan/careermap-react')
+    - [CareerMap](https://github.com/NestumMilo-isFezan/careermap-react)
 
 <hr>
 <h2 align="center">My Social Activity</h2>
