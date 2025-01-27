@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="banner-1.jpg" width="90%">
+    <img src="lilja finished.png" width="90%">
 </div>
 
 <h1 align="center">Hello Guys 👋, I'm <b>Nurahfezan - NestumMilo</b></h1>
