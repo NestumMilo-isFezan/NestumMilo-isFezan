@@ -10,16 +10,8 @@
     <img src="https://img.shields.io/badge/University-Universiti_Malaysia_Sabah-pink?style=flat&labelColor=%23FF004D"/>
 </p>
 
-- 🔭 I’m currently working on **revamp my recent university project in Laravel**, (might continue after final exam)
-    - [My Study KPI](https://github.com/NestumMilo-isFezan/mystudykpi-laravel.git)
-
-- 🗒️ Planning to do my side project for **hobby and improving my skills** (Maybe)
-    - To Do Apps
-    - Basic Recommendation System
-    - MAL Clone
-      
-- 🎓 Gathering Requirements for my **Final Year Project**
-    - Personalized Educational Recommendation System
+- 🔭 I’m done finishing my **Final Year Project**!!
+    - CareerMap ('https://github.com/NestumMilo-isFezan/careermap-react')
 
 <hr>
 <h2 align="center">My Social Activity</h2>
@@ -39,14 +31,12 @@
 <h2 align="center"><b>My Skills</b></h3>
 <div align="center">
 
-|   Category             |     Skilled     |   Will Learn  |
-| :---                   |     :---:      |     :---:     |
-| Programming Language   | [![My Skills](https://skillicons.dev/icons?i=php,java,js,cpp,py)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=rust,ts,ruby,cs)](https://skillicons.dev) |
-| Web Development        | [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=sass,nodejs,vite,alpinejs)](https://skillicons.dev) |
-| Web Frameworks         | [![My Skills](https://skillicons.dev/icons?i=laravel,jquery,tailwind,bootstrap)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=svelte,react,nextjs,django)](https://skillicons.dev) |
-| Database Experienced   | [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev) |
-| Essentials             | [![My Skills](https://skillicons.dev/icons?i=docker,figma,git,ps)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev) |
-| Machine Learning Tools | [![My Skills](https://skillicons.dev/icons?i=sklearn,opencv)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch)](https://skillicons.dev) |
+|   Category             |     Skilled    |
+| :---                   |     :---:      |
+| Programming Language   | [![My Skills](https://skillicons.dev/icons?i=php,java,js,ts,cpp,py)](https://skillicons.dev) |
+| Web Frameworks         | [![My Skills](https://skillicons.dev/icons?i=laravel,jquery,tailwind,bootstrap,react)](https://skillicons.dev) |
+| Database Experienced   | [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev) |
+| Essentials             | [![My Skills](https://skillicons.dev/icons?i=docker,figma,git,ps)](https://skillicons.dev) |
 
 </div>
 <hr>
@@ -55,7 +45,6 @@
 
 |   Marker             |     Stats Indicator     |
 | :---                   |     :---:      |
-| Total Stats | [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=NestumMilo-isFezan&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=radical#gh-dark-mode-only)](https://github.com/NestumMilo-isFezan#gh-dark-mode-only) [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=NestumMilo-isFezan&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=default#gh-light-mode-only)](https://github.com/NestumMilo-isFezan#gh-light-mode-only) |
 | Most Used Language in Github | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NestumMilo-isFezan&layout=compact&theme=radical&hide_border=true) |
 
 </div>
