@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello Guys 👋, I'm <b>Nurahfezan - NestumMilo</b></h1>
+<h1 align="center">Hello Guys 👋, I'm <b>Nurahfezan</b></h1>
 <h3 align="center">🎓I'm on Final Year in BCS (Hons) Software Engineering.<br>Just a simple Weeb and Tech Enthusiast.</h3>
 
 <p align="center"> 
