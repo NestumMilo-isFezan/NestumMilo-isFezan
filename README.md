@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello Guys 👋, I'm <b>Nurahfezan</b></h1>
-<h3 align="center">🎓I'm on Final Year in BCS (Hons) Software Engineering.<br>Just a simple Weeb and Tech Enthusiast.</h3>
+<h3 align="center">🎓I'm just your regular Software Developer.<br>Whew, I love anime and I am also a Tech Enthusiast.</h3>
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=NestumMilo-isFezan&label=Profile%20views&color=0e75b6&style=flat" alt="NestumMilo-isFezan" />
@@ -30,10 +30,11 @@
 
 |   Category             |     Skilled    |
 | :---                   |     :---:      |
-| Programming Language   | [![My Skills](https://skillicons.dev/icons?i=php,java,js,ts,cpp,py)](https://skillicons.dev) |
-| Web Frameworks         | [![My Skills](https://skillicons.dev/icons?i=laravel,jquery,tailwind,bootstrap,react)](https://skillicons.dev) |
-| Database Experienced   | [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev) |
-| Essentials             | [![My Skills](https://skillicons.dev/icons?i=docker,figma,git,ps)](https://skillicons.dev) |
+| Programming Language   | [![My Skills](https://skillicons.dev/icons?i=php,java,js,ts,cpp,py,ruby)](https://skillicons.dev) |
+| Web Frameworks         | [![My Skills](https://skillicons.dev/icons?i=laravel,fastapi,rails,nextjs,bun,vite,astro)](https://skillicons.dev) |
+| UI Library         | [![My Skills](https://skillicons.dev/icons?i=react,vue,jquery,bootstrap,tailwind)](https://skillicons.dev) |
+| Essentials             | [![My Skills](https://skillicons.dev/icons?i=androidstudio,figma,git,ps)](https://skillicons.dev) |
+| Server Deployment             | [![My Skills](https://skillicons.dev/icons?i=docker,redhat,linux,nginx,cloudflare)](https://skillicons.dev) |
 
 </div>
 <hr>
