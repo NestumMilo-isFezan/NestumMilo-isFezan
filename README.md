@@ -41,6 +41,6 @@
 <h2 align="center"><b>My Stats in Github</b></h2>
 <div align="center">
 
-[![Github Card](https://githubcard.com/NestumMilo-isFezan.svg?d=Zo4GjFj6)](https://githubcard.com)
+[![Github Card](https://githubcard.com/NestumMilo-isFezan.svg?d=xnDvdKzZ)](https://githubcard.com)
 
 </div>
