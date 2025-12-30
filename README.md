@@ -41,8 +41,6 @@
 <h2 align="center"><b>My Stats in Github</b></h2>
 <div align="center">
 
-|   Marker             |     Stats Indicator     |
-| :---                   |     :---:      |
-| Most Used Language in Github | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NestumMilo-isFezan&layout=compact&theme=radical&hide_border=true) |
+[![Github Card](https://githubcard.com/NestumMilo-isFezan.svg?d=Zo4GjFj6)](https://githubcard.com)
 
 </div>
